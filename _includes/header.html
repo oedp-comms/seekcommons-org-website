@@ -1,0 +1,21 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<nav id="menu">
+         <ul class="actions vertical">
+                <li><a href="https://seekcommons.net" class="button special fit">HOME</a></li>
+        </ul>
+	<ul class="links">
+	        <li><a href="https://seekcommons.net/about.html">ABOUT</a></li>
+		<li><a href="https://seekcommons.net/members.html">TEAM</a></li>
+		<li><a href="https://seekcommons.net/activities.html">ACTIVITIES</a></li>
+	</ul>
+</nav>
