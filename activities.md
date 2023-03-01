@@ -1,7 +1,7 @@
 ---
 title: Project Activities
 layout: landing 
-description: 'List of project activities and resources'
+description: 'List of project activities'
 image: assets/images/activities.jpg
 nav-menu: true
 ---
@@ -121,5 +121,4 @@ nav-menu: true
         </section>
 
 </section>
-
 </div>
