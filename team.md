@@ -149,12 +149,34 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                                         <h3>Matias Milia</h3>
                                 </header>
                                 <p>
-				UPCOMING!
+				Matías F. Milia (he/him) is a postdoctoral affiliate at the University of Notre Dame's Anthropology department and Fellow for the Open Environmental Data Project (OEDP). With a Ph.D. in Social Science Research from the Latin American Faculty of Social Sciences in Mexico, he studies the entanglements of data infrastructures, environmental challenges, knowledge circulation, and future-oriented research from a translational STS perspective. He is also a member of different scientific associations studying socio-environmental, scientific, technological, and innovation dynamics. Matías is involved in projects on Open Science and Knowledge Circulation with colleagues in France, Africa, and Latin America. As a transnational scholar, he has worked and taught at Argentinean, Ecuadorian, and Mexican universities. He collaborates with Civil Society Organizations to devise strategic mappings and collaborative insights to promote transformative and sustainable initiatives through collective processes.
 				</p>
                                 <p>
-                                </p>
+                                Matías is contributing to the research part of the SEEKCommons project, helping to map the collectives of technologists, environmental researchers and frontline community members working with Open Science technologies and infrastructures.
+				</p>
                                 <ul class="actions">
                                         <li><a href="http://matias.milia.net" class="button">More info</a></li>
+                                </ul>
+                        </div>
+                </div>
+        </section>
+        <section>
+        <a href="" class="image">
+                        <img src="{% link assets/images/michelle.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>Michelle Cheripka</h3>
+                                </header>
+                                <p>
+			        Michelle Cheripka (she/her) is an interdisciplinary media maker who is passionate about environmental justice, interdisciplinary collaboration, and community building. Through her work as Communications & Content Manager at Open Environmental Data Project (OEDP), she aims to uplift the personal lived experiences that lie within datasets to advocate for systemic change. In 2020, she completed her master’s in the Sociology of Media & Culture at the University of Cambridge, where she conducted research on storytelling devices in popular culture that inform cultural understandings around climate action. Before Cambridge, she worked as an independent producer for film, web series, podcasts, and other new media, in addition to working with producers at Universal Television, Marvel Studios, STX Films, and Columbia University’s Media Lab, among others, on a variety of tv series, commercials, documentaries, Facebook Live series, and feature films.
+				</p>
+                                <p>
+				Michelle is contributing to the SEEKCommons project as a media expert, taking care of the communication strategies and media channels of the project.
+                                </p>
+                                <ul class="actions">
+                                        <li><a href="https://www.openenvironmentaldata.org/people/michelle-cheripka" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
@@ -177,7 +199,5 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                         </div>
                 </div>
         </section>
-
 </section>
-
 </div>

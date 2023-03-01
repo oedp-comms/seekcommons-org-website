@@ -4,7 +4,7 @@ subtitle: Socio-Environmental Knowledge Commons project
 email: seekcommons-team-list@googlelists.com
 description: SEEKCommons is a National Science Foundation sponsored project
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://seekcommons.net # the base hostname & protocol for your site
+url: https://seekcommons.org # the base hostname & protocol for your site
 author: SEEKCommons team
 
 # homepage tiles
@@ -35,4 +35,4 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
