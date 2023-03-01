@@ -67,7 +67,7 @@ nav-menu: true
 					<h3>Gerd Herber</h3>
 				</header>
 				<p>
-				Gerd Heber (he/him) is the Executive Director of The HDF Group, whose non-profit mission is to provide the means to organize and store large, complex data to be effectively and efficiently accessible anywhere and indefinitely. People worldwide rely on open-source HDF software to solve some of the most challenging data management problems. Gerd will help support network convenings and gatherings with documentation, software, and (cloud-)logistics. We will provide technical expertise and leadership in advising the network regarding data formats, standards, computing cloud technologies, and data management better practices.</p>
+				Gerd Heber (he/him) is the Executive Director of The HDF Group, whose non-profit mission is to provide the means to organize and store large, complex data to be effectively and efficiently accessible anywhere and indefinitely. People worldwide rely on open HDF software to solve some of the most challenging data management problems. Gerd will help support network convenings and gatherings with his technical expertise in data formats, standards, computing cloud technologies, and data management better practices.</p>
 				<ul class="actions">
 					<li><a href="https://www.hdfgroup.org/team/gerd-heber/" class="button">More info</a></li>
 				</ul>

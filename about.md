@@ -22,4 +22,4 @@ In order to address these questions, the “Socio-Environmental Knowledge Common
 
 If you are interested in becoming a network member or participating in SEEKCommons activities, please reach out to michelle at openenvironmentaldataproject.org.
 
-SEEKCommons is a collaboration between partners at the University of Notre Dame, the Open Environmental Data Project, and the HDF Group. SEEKCommons is made possible by an NSF FAIROS RCN grant (Award 2226425). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
+SEEKCommons is a collaboration between partners at the University of Notre Dame, the Open Environmental Data Project, and the HDF Group. The project is made possible by a National Science Foundation [FAIROS RCN grant (Award 2226425)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226425&HistoricalAwards=false). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
