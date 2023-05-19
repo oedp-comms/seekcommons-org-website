@@ -6,8 +6,6 @@ image: assets/images/network-members.jpg
 nav-menu: true
 ---
 
-# Network Members
-
 Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. 
 
 ### Gwen Ottinger
