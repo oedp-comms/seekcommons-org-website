@@ -1,8 +1,8 @@
 ---
 title: Resources 
 layout: landing
-description: 'Our Open Project Resources'
-image: assets/images/resources.jpg
+description: 'Our Project Resources'
+image: assets/images/PC-earth.jpg
 nav-menu: true
 ---
 
