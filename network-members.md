@@ -1,7 +1,7 @@
 ---
 layout: post
-title: SEEKCommons Network Members
-description: Profile of our network members
+title: Network Members
+description: Profile of our network partners
 image: assets/images/network-members.jpg
 nav-menu: true
 ---
