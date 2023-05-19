@@ -2,7 +2,7 @@
 title: Project Activities
 layout: landing 
 description: 'List of project activities'
-image: assets/images/future-drawing.jpg
+image: assets/images/bees-dancing.jpg
 nav-menu: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: SEEKCommons Calendar
 description: Calendar of network activities
-image: assets/images/network-activities.png
+image: assets/images/network-calendar.jpg
 nav-menu: true
 ---
 
