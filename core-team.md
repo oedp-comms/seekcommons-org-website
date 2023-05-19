@@ -1,7 +1,7 @@
 ---
-title: Research Team
+title: Core Team
 layout: landing
-description: 'Meet the SEEKCommons team members'
+description: 'Meet the SEEKCommons core team'
 image: assets/images/team.jpg
 nav-menu: true
 ---

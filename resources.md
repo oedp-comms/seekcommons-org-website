@@ -1,7 +1,7 @@
 ---
-title: Resources 
+title: Common Resources 
 layout: landing
-description: 'Our Project Resources'
+description: 'List of our shared resources'
 image: assets/images/PC-earth.jpg
 nav-menu: true
 ---
