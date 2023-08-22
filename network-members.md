@@ -16,10 +16,6 @@ Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-env
 
 **Scott Frickel** is a professor at Brown University. As a socio-environmental researcher, Scott explores the complex dynamics between science, society, and the environment. His research looks to answer questions about equity and environmental justice, informing decisions about environmental and public health. His current work develops computational methods and tools to generate historically geo-referenced databases on historical hazard land uses, connecting land uses to places of exposure for vulnerable populations.
 
-### Nancy Hoebelheinrich
-
-**Nancy Hoebelheinrich** Nancy J. Hoebelheinrich is an independent scholar, information analyst, consultant and educator who leads her own small business, Knowledge Motifs LLC from San Mateo, California.  As an information science researcher and educator focused on data stewardship, organization, retrieval, management and skills training, and digital libraries, Nancy has been involved in a number of initiatives on these topics for academic institutions such as Stanford University, the University of California Office of the President, the University of California San Diego (UCSD), non-governmental organizations such as the San Francisco Estuary Institute, the Library of Congress, and community organizations including GO FAIR US, EarthCube, the Research Data Alliance, and Earth Science Information Partners.   Her focus has been upon data description (metadata), and development of learning resources for researchers and data specialists.
-
 ### Abby J. Kinchy
 
 **Abby J. Kinchy** is a researcher at Rensselaer Polytechnic Institute (RPI). With a strong focus on socio-environmental research, Abby investigates environmental issues' social and political dimensions. Her current projects focus on soil contamination through a community science approach. With a focus on heavy metal contamination in urban soil, she works with a multidisciplinary team to develop and deploy a Community Soil Study Toolkit in front-line communities exposed to soil contamination. By doing so, they provide a case study of how collaborative citizen science addresses complex socio-environmental problems.
@@ -51,6 +47,11 @@ Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-env
 ### Daniel Mietchen
 
 **Daniel Mietchen** is an open science advocate and researcher at the Freie Universität Berlin. He is also a senior researcher at the FIZ Karlsruhe and the Leibniz Institute of Freshwater Ecology and Inland Fisheries. Daniel is too a former senior researcher at the Data Science Institute at the University of Virginia. His research interests include open science, data science, and ecosystem research. He is a strong advocate for making scientific research more open and accessible.
+
+### Nancy Hoebelheinrich
+
+**Nancy Hoebelheinrich** Nancy J. Hoebelheinrich is an independent scholar, information analyst, consultant and educator who leads her own small business, Knowledge Motifs LLC from San Mateo, California.  As an information science researcher and educator focused on data stewardship, organization, retrieval, management and skills training, and digital libraries, Nancy has been involved in a number of initiatives on these topics for academic institutions such as Stanford University, the University of California Office of the President, the University of California San Diego (UCSD), non-governmental organizations such as the San Francisco Estuary Institute, the Library of Congress, and community organizations including GO FAIR US, EarthCube, the Research Data Alliance, and Earth Science Information Partners.   Her focus has been upon data description (metadata), and development of learning resources for researchers and data specialists.
+
 
 ### Kathy Pope
 
