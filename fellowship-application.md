@@ -3,7 +3,7 @@ layout: post
 title: SEEKCommons Fellowship Application 
 description: Information on how to apply for our fellowship program
 image: assets/images/fellowship-app.png
-exclude: true
+show_tile: false
 ---
 
 ## Fellowship application
