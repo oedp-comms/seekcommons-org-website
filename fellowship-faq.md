@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEEKCommons Fellowship Application 
+title: SEEKCommons Fellowship FAQ 
 show_tile: false
 ---
 # SEEKCommons Fellowship FAQ
