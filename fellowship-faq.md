@@ -56,7 +56,8 @@ Professional practitioners do not need to have a background in social sciences, 
 **I have not yet started my program (Postdoc or Ph.D.). Can I still apply for the fellowship?**
 
 Yes, as long as you plan to start a graduate program or postdoctoral position during the fellowship period, you can apply. Professional practitioners are exempt from this requirement.
-Application process
+
+## Application process
 
 **How do I submit my application?**
 
@@ -82,7 +83,7 @@ Yes, in the first several months of the fellowship the cohort will participate i
 
 If you are a practitioner, you do not need to have experience in scientific research. Fellows will be encouraged to consider venues other than peer-reviewed publishing to disseminate their work (see: [fellowship description](fellowship-application.html) for more information). If you are interested in learning more about research methods, our team and network members will offer several workshops that will be tailored for SEEKCommons Fellows. The fellowship program was designed to help you advance your project with the help of a network for scholars and practitioners in Open Science, STS, and Socio-environmental research.
 
-##During the Fellowship
+## During the Fellowship
 
 **Will I receive support in deciding the structure and format for my fellowship project?**
 
