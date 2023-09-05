@@ -3,8 +3,6 @@ layout: post
 title: SEEKCommons Fellowship FAQ 
 show_tile: false
 ---
-# SEEKCommons Fellowship FAQ
-
 Please carefully read the fellowship description, application, and this FAQ before reaching out with questions.
 
 ## Basic Definitions
