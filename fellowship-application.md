@@ -44,10 +44,10 @@ In order to be eligible for this fellowship program, you must:
 - Demonstrate clear alignment with the goals and objectives of the SEEKCommons project[SEEKCommons.org(https://seekcommons.org). This will be assessed via your application materials.
 
 Of the nine fellowships offered in each cohort, at least one will be reserved for:
--An indigenous STS fellow working on the priority topics listed above under “potential research topics”
--An STS research fellow working on artificial intelligence (AI) and open socio-environmental data
+- An indigenous STS fellow working on the priority topics listed above under “potential research topics”
+- An STS research fellow working on artificial intelligence (AI) and open socio-environmental data
 
-### Please review our SEEKCommons Fellowship FAQ for additional eligibility information.
+### Please review our SEEKCommons [Fellowship FAQ](fellowship-faq.html) for additional eligibility information.
 
 ### Fellows’ Responsibilities
 To successfully engage in the fellowship opportunity, fellows will be expected to:
