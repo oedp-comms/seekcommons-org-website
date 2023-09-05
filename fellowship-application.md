@@ -11,7 +11,7 @@ nav-menu: true
 
 The Socio-Environmental Knowledge Commons (SEEKCommons) project is dedicated to building pathways for horizontal collaborations across Science and Technology Studies (STS), Open Science (OS), and socio-environmental researchers and community organizers.
 
-The SEEKCommons Fellowship is an initiative to bring graduates and early-career researchers with new perspectives and voices to socio-environmental research with open technologies. Our program is designed to:
+The SEEKCommons Fellowship is an initiative to bring graduate students and early-career researchers with new perspectives and voices to socio-environmental research with open technologies. Our program is designed to:
 
 - Encourage new integrative practices involving environmental and climate action research with OS practices; and
 - Provide a space for fellows and network members to connect on research issues, challenges, and solutions.
