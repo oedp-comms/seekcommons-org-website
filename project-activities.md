@@ -69,10 +69,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>SEEKCommons Fellowships</h3>
+					<h3>[SEEKCommons Fellowships](https://seekcommons.org/fellowship-application.html)</h3>
 				</header>
 				<p>
-				Nine-month undergraduate and graduate student fellowships and twelve-month postdoctoral research fellowships will support the integration of open science practices in community-oriented environmental and climate action research.
+		The SEEKCommons [Fellowship](https://seekcommons.org/fellowship-application.html) brings together graduate students and early-career researchers with new perspectives and voices to socio-environmental research with open technologies. The Fellowship program is designed to encourage new integrative practices involving environmental and climate action research with OS practices, and provide a space for fellows and network members to connect on research issues, challenges, and solutions.
 				</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
