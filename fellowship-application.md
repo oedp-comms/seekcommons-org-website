@@ -16,7 +16,7 @@ The SEEKCommons Fellowship is an initiative to bring graduates and early-career 
 
 We are seeking 9 fellows for the inaugural 2024 SEEKCommons Fellowship. More details below:
 
-- Applications Open: September 5-October 15, 2023
+- [Application Form](https://airtable.com/appIn7IkDUND83vC3/shrDl9Ot0H1gxAvbm) Open: September 5-October 15, 2023
 - Successful Fellows notified: November 29, 2023
 - Fellowship begins: January 22, 2024
 - Fellowship ends: October 22, 2024
@@ -73,6 +73,6 @@ SEEKCommons Fellows will benefit from these offerings:
 - Support for travel to one in-person SEEKCommons convening
 
 **Applications due by October 15, 2023**
-Read our [FAQ](fellowship-faq.html) to learn more or apply here.
+Read our [FAQ](fellowship-faq.html) to learn more or [apply here](https://airtable.com/appIn7IkDUND83vC3/shrDl9Ot0H1gxAvbm).
 
 SEEKCommons is a collaboration between partners at: University of Notre Dame, the Open Environmental Data Project, and the HDF Group. The project is made possible by a National Science Foundation FAIROS RCN grant (Award 2226425). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
