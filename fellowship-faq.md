@@ -87,6 +87,10 @@ If you are a practitioner, you do not need to have experience in scientific rese
 
 Yes, early in the fellowship you will meet with the SEEKCommons team and with your mentor to discuss and structure your project.
 
+**Is this a full-time fellowship?**
+
+No, this fellowship is a supplemental experience to other professional activities and will be compensated accordingly.
+
 **How often will I get to meet with my mentor, the fellowship cohort, and the SEEKCommons team?**
 
 Fellows are required to meet at least once a month with their fellowship cohort and SEEKCommons team members, and as often as necessary with mentors. Depending on your individual mentor’s capacity and the support needed for your project, you may make arrangements to meet more or less frequently. You will meet with the SEEKCommons team members regularly during talks and workshops (to be held, at least, once a month).
