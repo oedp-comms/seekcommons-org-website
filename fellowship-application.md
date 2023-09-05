@@ -47,7 +47,7 @@ Of the nine fellowships offered in each cohort, at least one will be reserved fo
 - An indigenous STS fellow working on the priority topics listed above under “potential research topics”
 - An STS research fellow working on artificial intelligence (AI) and open socio-environmental data
 
-### Please review our SEEKCommons [Fellowship FAQ](fellowship-faq.html) for additional eligibility information.
+**Please review our SEEKCommons [Fellowship FAQ](fellowship-faq.html) for additional eligibility information**.
 
 ### Fellows’ Responsibilities
 To successfully engage in the fellowship opportunity, fellows will be expected to:
@@ -73,6 +73,6 @@ SEEKCommons Fellows will benefit from these offerings:
 - Support for travel to one in-person SEEKCommons convening
 
 **Applications due by October 15, 2023**
-Read our FAQ to learn more or apply here.
+Read our [FAQ](fellowship-faq.html) to learn more or apply here.
 
 SEEKCommons is a collaboration between partners at: University of Notre Dame, the Open Environmental Data Project, and the HDF Group. The project is made possible by a National Science Foundation FAIROS RCN grant (Award 2226425). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
