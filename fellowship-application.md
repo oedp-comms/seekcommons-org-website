@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Applications Now Open for the 2024 SEEKCommons Fellowship
- 
+description: Description of our Fellowship opportunity
 show_tile: true
+image: assets/images/network-members.jpg
+nav-menu: true
 ---
+
 ## About SEEKCommons
 
 The Socio-Environmental Knowledge Commons (SEEKCommons) project is dedicated to building pathways for horizontal collaborations across Science and Technology Studies (STS), Open Science (OS), and socio-environmental researchers and community organizers.
