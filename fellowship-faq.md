@@ -35,15 +35,11 @@ No, but most of our team and network members are located in or near EST time zon
 
 Yes, as long as you can follow these guidelines:
 
-A. During the application process you will be asked to note your commitment to being available for weekly calls/meetings that will generally happen in EDT/EST afternoons (13:00-17:00). We unfortunately cannot make an exception to this.
-
-B. This fellowship requires expert fluency in spoken and written English.
-
-C. You will need to clearly demonstrate that you are working on socio-environmental problems with an Open or STS-related project.
-
-D. The majority of our mentors are based in the U.S. and as we select fellows, we will be attempting to match fellows and mentors with similar geographic and topical experience.
-
-E. SEEKCommons cannot provide travel support to the annual SEEKCommons convening for fellows outside of the U.S.
+1. During the application process you will be asked to note your commitment to being available for weekly calls/meetings that will generally happen in EDT/EST afternoons (13:00-17:00). We unfortunately cannot make an exception to this.
+2. This fellowship requires expert fluency in spoken and written English.
+3. You will need to clearly demonstrate that you are working on socio-environmental problems with an Open or STS-related project.
+4. The majority of our mentors are based in the U.S. and as we select fellows, we will be attempting to match fellows and mentors with similar geographic and topical experience.
+5. SEEKCommons cannot provide travel support to the annual SEEKCommons convening for fellows outside of the U.S.
 
 **If I am interested in or experienced with one of the tracks (STS, socio-environmental research, or open) but not all, am I still eligible?**
 
