@@ -66,7 +66,7 @@ To successfully engage in the fellowship opportunity, fellows will be expected t
 - Participation in entry and exit surveys conducted by the SEEKcommons team.
 
 SEEKCommons Fellows will benefit from these offerings:
-- Stipends: $8,000 graduates, $12,000 post-docs and professionals
+- Stipends: $8,000 graduate students, $12,000 post-docs and professionals
 - Mentorship from SEEKCommons project and network members
 - Training in OS, STS, and Socio-environmental research topics
 
